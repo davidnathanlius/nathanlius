@@ -10,5 +10,7 @@ Telah diinstall :
 3. Eclipse
 4. Plugin
 5. Pack
+
 namun terjadi error saat pembukaan eclipse seperti pada gambar dibawah
+
 ![progress 1](https://user-images.githubusercontent.com/32238745/32445246-b2ee7ec4-c337-11e7-9d00-6b4d0f9f9efb.jpg)
